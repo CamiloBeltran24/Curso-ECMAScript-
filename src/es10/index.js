@@ -27,7 +27,7 @@ console.log(hello2.trimEnd());
 let hello3 = "             hello World!             ";
 console.log(hello3.trim());
 
-//
+//Optional Catch Binding
 // podemos pasar de forma opcional el parametro de error al valor de catch
 
 try {
